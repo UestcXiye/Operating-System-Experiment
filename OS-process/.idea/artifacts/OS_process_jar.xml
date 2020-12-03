@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="OS-process:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OS_process_jar</output-path>
+    <root id="root">
+      <element id="archive" name="OS-process.jar">
+        <element id="module-output" name="OS-process" />
+      </element>
+    </root>
+  </artifact>
+</component>
